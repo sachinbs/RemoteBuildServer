@@ -1,17 +1,26 @@
-//////////////////////////////////////////////////////////////////////
-// Project#4:      Remote Build Server                              //
-//                 An automated tool that builds test libraries     //
-// **************************************************************** //
-// Version:        1.0                                              //
-// Date:           12/06/2017                                       //
-// Language:       C#.                                              //
-// Platform:       Visual Studio Community Edition                  //
-//                 HP ENVY, Windows 10                              //
-// Application:    CSE681 - Software Modelling and Analysis         //
-// Author:         Sachin Basavani Shivashankara                    //
-// SUID:           267871645                                        //
-// Ph:, email:     (315)751-5895, sbasavan@syr.edu                  //
-//////////////////////////////////////////////////////////////////////
+# RemoteBuildServer
+An automated tool that supports testing of libraries from a test request
+
+* Implements Client (GUI provided through WPF) to generate test requests based on the selection of code files (present in the Repository) made on the GUI
+* Implements Mock Repository to store the source code, test requests, build and test logs and to transfer files to the Build Server
+* Implements the Core Build Server which builds the source code files into test libraries (dll's)
+* Implements Test Harness to load and execute the libraries
+* All the components in the federation communicate through WCF
+
+		//////////////////////////////////////////////////////////////////////
+		// Project#4:      Remote Build Server                              //
+		//                 An automated tool that builds test libraries     //
+		// **************************************************************** //
+		// Version:        1.0                                              //
+		// Date:           12/06/2017                                       //
+		// Language:       C#.                                              //
+		// Platform:       Visual Studio Community Edition                  //
+		//                 HP ENVY, Windows 10                              //
+		// Application:    CSE681 - Software Modelling and Analysis         //
+		// Author:         Sachin Basavani Shivashankara                    //
+		// SUID:           267871645                                        //
+		// Ph:, email:     (315)751-5895, sbasavan@syr.edu                  //
+		//////////////////////////////////////////////////////////////////////
 
 1. Client, Repo, Mother Builder, Test Harness are started in parallel
 2. Mother Builder spawns the number of processes (child builders) specified in the command-line arguments (Default number of processes: 2)
