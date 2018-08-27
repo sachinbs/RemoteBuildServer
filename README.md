@@ -22,6 +22,7 @@ An automated tool that supports testing of libraries from a test request
 		// Ph:, email:     (315)751-5895, sbasavan@syr.edu                  //
 		//////////////////////////////////////////////////////////////////////
 
+####################################################################################
 1. Client, Repo, Mother Builder, Test Harness are started in parallel
 2. Mother Builder spawns the number of processes (child builders) specified in the command-line arguments (Default number of processes: 2)
 3. To demonstrate the requirements, Client sends a message to the Repo to send the XMLs in its storage area for building and testing
