@@ -1,0 +1,483 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     Wed Dec  6 23:19:52 2017
+     Path: "C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project4\Project4\Remote_Build_Server\Remote_Build_Server"
+     Args: *.cs, Remote_Build_Server.sln, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1     482
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                App.g.i.cs   namespace                          Navigator      35      35       4
+                App.g.i.cs       class                                App      41      29       3
+                App.g.i.cs    function       DebuggerNonUserCodeAttribute      48       8       1
+                App.g.i.cs    function                 STAThreadAttribute      63       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+               App.xaml.cs   namespace                          Navigator      30      21       2
+               App.xaml.cs       class                                App      35      16       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+          BlockingQueue.cs   namespace                            SWTools      68      91      17
+          BlockingQueue.cs       class                      BlockingQueue      70      55      11
+          BlockingQueue.cs    function                      BlockingQueue      77       3       1
+          BlockingQueue.cs    function                                enQ      83       7       2
+          BlockingQueue.cs    function                               lock      85       4       1
+          BlockingQueue.cs    function                                deQ      96      12       3
+          BlockingQueue.cs    function                               lock      99       8       2
+          BlockingQueue.cs    function                               size     112       5       2
+          BlockingQueue.cs    function                               lock     113       2       1
+          BlockingQueue.cs    function                              clear     120       3       2
+          BlockingQueue.cs    function                               lock     120       2       1
+          BlockingQueue.cs       class                            Program     128      30       5
+          BlockingQueue.cs    function                               Main     130      26       4
+          BlockingQueue.cs    function                             Thread     136       7       2
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                Builder.cs   namespace                            Builder      57     234      29
+                Builder.cs       class                            Builder      60     231      28
+                Builder.cs    function                            Builder      74       9       1
+                Builder.cs    function                          createDir      85       8       1
+                Builder.cs    function                      sendReadyStat      96       9       1
+                Builder.cs    function                         buildFiles     108      27       3
+                Builder.cs    function                        buildStatus     137      31       3
+                Builder.cs    function                       buildRequest     171      15       1
+                Builder.cs    function                            sendLib     189      15       1
+                Builder.cs    function                          filesSent     207      39       3
+                Builder.cs    function                     messageHandler     249      32       4
+                Builder.cs    function                               Main     284       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+          CodePopUp.g.i.cs   namespace                          Navigator      35      54       6
+          CodePopUp.g.i.cs       class                          CodePopUp      41      48       5
+          CodePopUp.g.i.cs    function       DebuggerNonUserCodeAttribute      58      13       2
+          CodePopUp.g.i.cs    function       DebuggerNonUserCodeAttribute      78       9       2
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+         CodePopUp.xaml.cs   namespace                          Navigator      42       9       3
+         CodePopUp.xaml.cs       class                          CodePopUp      44       7       2
+         CodePopUp.xaml.cs    function                          CodePopUp      46       3       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                   Comm.cs   namespace                     MessagePassing      58      77      10
+                   Comm.cs       class                               Comm      61      75       9
+                   Comm.cs    function                               Comm      68       5       1
+                   Comm.cs    function                               Comm      76       5       1
+                   Comm.cs    function                              close      84       5       1
+                   Comm.cs    function                        postMessage      92       3       1
+                   Comm.cs    function                         getMessage      98       3       1
+                   Comm.cs    function                           postFile     104       3       1
+                   Comm.cs    function                           postFile     110       3       1
+                   Comm.cs    function                               Main     117      16       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+           Communicator.cs   namespace                     MessagePassing      52      28       5
+           Communicator.cs       class                       Communicator      57      24       4
+           Communicator.cs    function                       Communicator      63       3       1
+           Communicator.cs    function                     processMessage      69       7       2
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                FileMgr.cs   namespace                          Navigator      57     101      20
+                FileMgr.cs   interface                           IFileMgr      63       7       3
+                FileMgr.cs       class                     FileMgrFactory      72      10       2
+                FileMgr.cs    function                             create      74       6       1
+                FileMgr.cs       class                       LocalFileMgr      84      47       9
+                FileMgr.cs    function                       LocalFileMgr      89       3       1
+                FileMgr.cs    function                           getFiles      95      11       2
+                FileMgr.cs    function                            getDirs     109      11       2
+                FileMgr.cs    function                             setDir     123       6       1
+                FileMgr.cs       class                        TestFileMgr     133      25       4
+                FileMgr.cs    function                               Main     135      21       3
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+        IMessagePassing.cs   namespace                     MessagePassing      46     104      15
+        IMessagePassing.cs   interface                    IMessagePassing      55      20       1
+        IMessagePassing.cs       class                        CommMessage      80      70      13
+        IMessagePassing.cs    function                        CommMessage      98       3       1
+        IMessagePassing.cs    function                               show     133      15       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                  ITest.cs   namespace                     ITestInterface      37       7       2
+                  ITest.cs   interface                              ITest      39       4       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+         MainWindow.g.i.cs   namespace                          Navigator      35     410       6
+         MainWindow.g.i.cs       class                         MainWindow      41     404       5
+         MainWindow.g.i.cs    function       DebuggerNonUserCodeAttribute     250      13       2
+         MainWindow.g.i.cs    function       DebuggerNonUserCodeAttribute     270     173       2
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+        MainWindow.xaml.cs   namespace                          Navigator      83     346      54
+        MainWindow.xaml.cs       class                         MainWindow      85     344      53
+        MainWindow.xaml.cs    function                         MainWindow      99      15       1
+        MainWindow.xaml.cs    function                        getXmlFiles     116       9       1
+        MainWindow.xaml.cs    function        initializeMessageDispatcher     128      42       9
+        MainWindow.xaml.cs    function                                  =     132       6       2
+        MainWindow.xaml.cs    function                                  =     142       6       2
+        MainWindow.xaml.cs    function                                  =     152       6       2
+        MainWindow.xaml.cs    function                                  =     162       6       2
+        MainWindow.xaml.cs    function       initializeMessageDispatcher1     173      11       3
+        MainWindow.xaml.cs    function                                  =     175       7       2
+        MainWindow.xaml.cs    function                      rcvThreadProc     187      14       3
+        MainWindow.xaml.cs    function                             Invoke     197       1       1
+        MainWindow.xaml.cs    function                      Window_Closed     204       8       1
+        MainWindow.xaml.cs    function                     Window_Closing     215       2       1
+        MainWindow.xaml.cs    function                        getTopFiles     220      16       1
+        MainWindow.xaml.cs    function                      localUp_Click     240       7       1
+        MainWindow.xaml.cs    function          repoDirs_MouseDoubleClick     255       9       1
+        MainWindow.xaml.cs    function        viewBldReq_MouseDoubleClick     266      16       3
+        MainWindow.xaml.cs    function       bldLogsList_MouseDoubleClick     284       3       1
+        MainWindow.xaml.cs    function       tstLogsList_MouseDoubleClick     289       3       1
+        MainWindow.xaml.cs    function                     addFiles_Click     294      13       3
+        MainWindow.xaml.cs    function                     topFiles_Click     309       4       1
+        MainWindow.xaml.cs    function                      prevDir_Click     315       3       1
+        MainWindow.xaml.cs    function                   removFiles_Click     320      17       4
+        MainWindow.xaml.cs    function                       genXml_Click     339      28       3
+        MainWindow.xaml.cs    function                      testXml_Click     369      14       2
+        MainWindow.xaml.cs    function                           automate     385      11       1
+        MainWindow.xaml.cs    function                      testAll_Click     398      13       2
+        MainWindow.xaml.cs    function                     killProc_Click     413       9       1
+        MainWindow.xaml.cs    function                 Status_TextChanged     424       3       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+          MotherBuilder.cs   namespace                      MotherBuilder      51     134      17
+          MotherBuilder.cs       class                      MotherBuilder      54     131      16
+          MotherBuilder.cs    function                      MotherBuilder      70      15       1
+          MotherBuilder.cs    function             buildRequestDispatcher      88      13       2
+          MotherBuilder.cs    function                       spawnProcess     104      19       4
+          MotherBuilder.cs    function               updateChildProcPorts     126       7       2
+          MotherBuilder.cs    function                     messageHandler     136      33       5
+          MotherBuilder.cs    function                               Main     172      10       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+    NavigatorClient.g.i.cs   namespace                          Navigator      35     209       6
+    NavigatorClient.g.i.cs       class                         MainWindow      41     203       5
+    NavigatorClient.g.i.cs    function       DebuggerNonUserCodeAttribute     130      13       2
+    NavigatorClient.g.i.cs    function       DebuggerNonUserCodeAttribute     150      92       2
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                   Repo.cs   namespace                               Repo      57     177      20
+                   Repo.cs       class                               Repo      60     174      19
+                   Repo.cs    function                               Repo      72       7       1
+                   Repo.cs    function                       getArguments      82      16       2
+                   Repo.cs    function                        getXmlFiles     101      10       1
+                   Repo.cs    function                         getTopDirs     114      10       1
+                   Repo.cs    function                        getTopFiles     127      10       1
+                   Repo.cs    function                          sendFiles     140      20       2
+                   Repo.cs    function                       buildRequest     163      10       1
+                   Repo.cs    function                    allBuildRequest     176      16       2
+                   Repo.cs    function                     messageHandler     195      26       2
+                   Repo.cs    function                               Main     224       8       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+     Resources.Designer.cs   namespace                          Navigator      12      60       9
+     Resources.Designer.cs       class                          Resources      26      46       8
+     Resources.Designer.cs    function           SuppressMessageAttribute      34       2       1
+     Resources.Designer.cs    function           EditorBrowsableAttribute      42      11       3
+     Resources.Designer.cs    function           EditorBrowsableAttribute      60      10       3
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+         SenderReceiver.cs   namespace                     MessagePassing      80     384      58
+         SenderReceiver.cs       class                           Receiver      83     121      20
+         SenderReceiver.cs    function                           Receiver      91       4       1
+         SenderReceiver.cs    function                              start      98       5       1
+         SenderReceiver.cs    function                              start     106       5       1
+         SenderReceiver.cs    function                     createCommHost     114      16       3
+         SenderReceiver.cs    function                        postMessage     133       4       1
+         SenderReceiver.cs    function                         getMessage     140      12       3
+         SenderReceiver.cs    function                              close     155       9       1
+         SenderReceiver.cs    function                   openFileForWrite     167      14       3
+         SenderReceiver.cs    function                     writeFileBlock     184      12       3
+         SenderReceiver.cs    function                          closeFile     199       3       1
+         SenderReceiver.cs       class                             Sender     206     232      35
+         SenderReceiver.cs    function                             Sender     220       6       1
+         SenderReceiver.cs    function                             Sender     229       6       1
+         SenderReceiver.cs    function                  createSendChannel     238       6       1
+         SenderReceiver.cs    function               createNewSendChannel     247       7       1
+         SenderReceiver.cs    function                            connect     257       4       1
+         SenderReceiver.cs    function                            connect     264      38       8
+         SenderReceiver.cs    function                              close     305       4       1
+         SenderReceiver.cs    function                         threadProc     313      24       6
+         SenderReceiver.cs    function                        postMessage     340       3       1
+         SenderReceiver.cs    function                           postFile     346      31       4
+         SenderReceiver.cs    function                        postFileTry     380      30       4
+         SenderReceiver.cs    function                           postFile     413      23       5
+         SenderReceiver.cs       class                Test_SenderReceiver     440      24       2
+         SenderReceiver.cs    function                               Main     443      19       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+      Settings.Designer.cs   namespace                          Navigator      12      19       4
+      Settings.Designer.cs       class                           Settings      18      13       3
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+          TestExecutive.cs   namespace                      TestExecutive      12      43       8
+          TestExecutive.cs       class                      TestExecutive      14      41       7
+          TestExecutive.cs    function                     messageHandler      16      28       5
+          TestExecutive.cs    function                               Main      46       7       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            TestHarness.cs   namespace                        TestHarness      61     228      35
+            TestHarness.cs       class                        TestHarness      64     225      34
+            TestHarness.cs    function                        TestHarness      75       5       1
+            TestHarness.cs    function                        initTesting      83       7       1
+            TestHarness.cs    function         LoadFromComponentLibFolder      93       8       1
+            TestHarness.cs    function             loadAndExerciseTesters     104      34       6
+            TestHarness.cs    function                   runSimulatedTest     141      45       4
+            TestHarness.cs    function                                  =     159       4       1
+            TestHarness.cs    function                     messageHandler     189      32       3
+            TestHarness.cs    function              GuessTestersParentDir     224       9       1
+            TestHarness.cs    function              getTestLogFilesHelper     236      14       3
+            TestHarness.cs    function                    getTestLogFiles     253       4       1
+            TestHarness.cs    function                       sendLogFiles     260      17       4
+            TestHarness.cs    function                               Main     279       8       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            TestRequest.cs   namespace                       BuildRequest      60     195      27
+            TestRequest.cs       class                       BuildRequest      63     136      23
+            TestRequest.cs    function                        makeRequest      73      26       2
+            TestRequest.cs    function                            loadXml     102      12       3
+            TestRequest.cs    function                            saveXml     117      12       3
+            TestRequest.cs    function                              parse     132      22       3
+            TestRequest.cs    function                          parseList     156      22       4
+            TestRequest.cs    function                    genBuildRequest     181      16       2
+            TestRequest.cs       class                   Test_TestRequest     201      53       3
+            TestRequest.cs    function                               Main     204      48       2
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            testDriver1.cs   namespace                              Demo1      41      71       7
+            testDriver1.cs       class                        testDriver1      45      67       6
+            testDriver1.cs    function                     test_testCode1      47      20       1
+            testDriver1.cs    function                     test_testCode2      69      11       1
+            testDriver1.cs    function                     test_testCode3      82      14       1
+            testDriver1.cs    function                                say      98       3       1
+            testDriver1.cs    function                               test     103       7       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+   testDriver1_testCode01.   namespace                              Demo1      37      29       6
+   testDriver1_testCode01.       class                          testCode1      39      27       5
+   testDriver1_testCode01.    function                           truncate      41       8       1
+   testDriver1_testCode01.    function                             expand      50      14       3
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+   testDriver1_testCode02.   namespace                              Demo1      37       9       3
+   testDriver1_testCode02.       class                          testCode2      39       7       2
+   testDriver1_testCode02.    function                             vowels      41       3       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+   testDriver1_testCode03.   namespace                              Demo1      37      11       3
+   testDriver1_testCode03.       class                          testCode3      39       9       2
+   testDriver1_testCode03.    function                        concatenate      41       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            testDriver2.cs   namespace                              Demo2      40      51       6
+            testDriver2.cs       class                        testDriver2      44      47       5
+            testDriver2.cs    function                     test_testCode4      46      15       1
+            testDriver2.cs    function                     test_testCode5      63      14       1
+            testDriver2.cs    function                                say      79       3       1
+            testDriver2.cs    function                               test      84       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+   testDriver2_testCode04.   namespace                              Demo2      37      12       3
+   testDriver2_testCode04.       class                          testCode5      39      10       2
+   testDriver2_testCode04.    function                               fact      41       6       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+   testDriver2_testCode05.   namespace                              Demo2      37      13       3
+   testDriver2_testCode05.       class                          testCode4      39      11       2
+   testDriver2_testCode05.    function                              power      41       7       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            testDriver3.cs   namespace                              Demo3      40      53       6
+            testDriver3.cs       class                        testDriver3      44      49       5
+            testDriver3.cs    function                     test_testCode6      46      16       1
+            testDriver3.cs    function                     test_testCode7      64      15       1
+            testDriver3.cs    function                                say      81       3       1
+            testDriver3.cs    function                               test      86       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+   testDriver3_testCode06.   namespace                              Demo3      37      13       3
+   testDriver3_testCode06.       class                          testCode7      39      11       2
+   testDriver3_testCode06.    function                           powerOf2      41       7       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+   testDriver3_testCode07.   namespace                              Demo3      37      11       3
+   testDriver3_testCode07.       class                          testCode6      39       9       2
+   testDriver3_testCode07.    function                             modulo      41       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            testDriver4.cs   namespace                              Demo1      41      71       7
+            testDriver4.cs       class                        testDriver1      45      67       6
+            testDriver4.cs    function                     test_testCode1      47      20       1
+            testDriver4.cs    function                     test_testCode2      69      11       1
+            testDriver4.cs    function                     test_testCode3      82      14       1
+            testDriver4.cs    function                                say      98       3       1
+            testDriver4.cs    function                               test     103       7       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+   testDriver4_testCode08.   namespace                              Demo1      37      11       3
+   testDriver4_testCode08.       class                          testCode3      39       9       2
+   testDriver4_testCode08.    function                        concatenate      41       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+   testDriver4_testCode09.   namespace                              Demo1      37      29       6
+   testDriver4_testCode09.       class                          testCode1      39      27       5
+   testDriver4_testCode09.    function                           truncate      41       8       1
+   testDriver4_testCode09.    function                             expand      50      14       3
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+   testDriver4_testCode10.   namespace                              Demo1      37       9       3
+   testDriver4_testCode10.       class                          testCode2      39       7       2
+   testDriver4_testCode10.    function                             vowels      41       3       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            testDriver5.cs   namespace                              Demo1      41      71       7
+            testDriver5.cs       class                        testDriver1      45      67       6
+            testDriver5.cs    function                     test_testCode1      47      20       1
+            testDriver5.cs    function                     test_testCode2      69      11       1
+            testDriver5.cs    function                     test_testCode3      82      14       1
+            testDriver5.cs    function                                say      98       3       1
+            testDriver5.cs    function                               test     103       7       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+   testDriver5_testCode11.   namespace                              Demo1      37      11       3
+   testDriver5_testCode11.       class                          testCode3      39       9       2
+   testDriver5_testCode11.    function                        concatenate      41       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+   testDriver5_testCode12.   namespace                              Demo1      37      29       6
+   testDriver5_testCode12.       class                          testCode1      39      27       5
+   testDriver5_testCode12.    function                           truncate      41       8       1
+   testDriver5_testCode12.    function                             expand      50      14       3
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+   testDriver5_testCode13.   namespace                              Demo1      37       9       3
+   testDriver5_testCode13.       class                          testCode2      39       7       2
+   testDriver5_testCode13.    function                             vowels      41       3       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            testDriver6.cs   namespace                              Demo1      41      71       7
+            testDriver6.cs       class                        testDriver1      45      67       6
+            testDriver6.cs    function                     test_testCode1      47      20       1
+            testDriver6.cs    function                     test_testCode2      69      11       1
+            testDriver6.cs    function                     test_testCode3      82      14       1
+            testDriver6.cs    function                                say      98       3       1
+            testDriver6.cs    function                               test     103       7       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+   testDriver6_testCode14.   namespace                              Demo1      37      11       3
+   testDriver6_testCode14.       class                          testCode3      39       9       2
+   testDriver6_testCode14.    function                        concatenate      41       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+   testDriver6_testCode15.   namespace                              Demo1      37      29       6
+   testDriver6_testCode15.       class                          testCode1      39      27       5
+   testDriver6_testCode15.    function                           truncate      41       8       1
+   testDriver6_testCode15.    function                             expand      50      14       3
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+   testDriver6_testCode16.   namespace                              Demo1      37       9       3
+   testDriver6_testCode16.       class                          testCode2      39       7       2
+   testDriver6_testCode16.    function                             vowels      41       3       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            testDriver7.cs   namespace                              Demo2      40      51       6
+            testDriver7.cs       class                        testDriver2      44      47       5
+            testDriver7.cs    function                     test_testCode4      46      15       1
+            testDriver7.cs    function                     test_testCode5      63      14       1
+            testDriver7.cs    function                                say      79       3       1
+            testDriver7.cs    function                               test      84       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+   testDriver7_testCode17.   namespace                              Demo2      37      13       3
+   testDriver7_testCode17.       class                          testCode4      39      11       2
+   testDriver7_testCode17.    function                              power      41       7       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+   testDriver7_testCode18.   namespace                              Demo2      37      12       3
+   testDriver7_testCode18.       class                          testCode5      39      10       2
+   testDriver7_testCode18.    function                               fact      41       6       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            testDriver8.cs   namespace                              Demo3      40      53       6
+            testDriver8.cs       class                        testDriver3      44      49       5
+            testDriver8.cs    function                     test_testCode6      46      16       1
+            testDriver8.cs    function                     test_testCode7      64      15       1
+            testDriver8.cs    function                                say      81       3       1
+            testDriver8.cs    function                               test      86       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+   testDriver8_testCode19.   namespace                              Demo3      37      11       3
+   testDriver8_testCode19.       class                          testCode6      39       9       2
+   testDriver8_testCode19.    function                             modulo      41       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+   testDriver8_testCode20.   namespace                              Demo3      37      13       3
+   testDriver8_testCode20.       class                          testCode7      39      11       2
+   testDriver8_testCode20.    function                           powerOf2      41       7       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+         MainWindow.g.i.cs    function       DebuggerNonUserCodeAttribute     270     173       2
+    NavigatorClient.g.i.cs    function       DebuggerNonUserCodeAttribute     150      92       2
+
+
+
+    searched    88 dirs
+   processed    87 files

@@ -1,0 +1,15 @@
+06-12-2017 23:25:54
+csc
+Files for build:
+testDriver3.cs
+testDriver3_testCode06.cs
+ITest.cs
+Microsoft (R) Visual C# Compiler version 4.7.2556.0
+for C# 5
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+This compiler is provided as part of the Microsoft (R) .NET Framework, but only supports language versions up to C# 5, which is no longer the latest version. For compilers that support newer versions of the C# programming language, see http://go.microsoft.com/fwlink/?LinkID=533240
+
+testDriver3.cs(53,13): error CS0246: The type or namespace name 'testCode6' could not be found (are you missing a using directive or an assembly reference?)
+testDriver3.cs(53,33): error CS0246: The type or namespace name 'testCode6' could not be found (are you missing a using directive or an assembly reference?)
+

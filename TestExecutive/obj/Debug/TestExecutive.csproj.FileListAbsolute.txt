@@ -1,0 +1,10 @@
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project3\Project3\Prototype\TestExecutive\bin\Debug\MessagePassing.exe
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project3\Project3\Prototype\TestExecutive\bin\Debug\MotherBuilder.exe
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project3\Project3\Prototype\TestExecutive\bin\Debug\Repo.exe
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project3\Project3\Prototype\TestExecutive\bin\Debug\MessagePassing.pdb
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project3\Project3\Prototype\TestExecutive\bin\Debug\MessagePassing.exe.config
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project3\Project3\Prototype\TestExecutive\bin\Debug\MotherBuilder.exe.config
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project3\Project3\Prototype\TestExecutive\obj\Debug\TestExecutive.csprojResolveAssemblyReference.cache
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project3\Project3\Prototype\TestExecutive\obj\Debug\TestExecutive.csproj.CoreCompileInputs.cache
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project3\Project3\Prototype\TestExecutive\obj\Debug\TestExecutive.exe
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project3\Project3\Prototype\TestExecutive\obj\Debug\TestExecutive.pdb

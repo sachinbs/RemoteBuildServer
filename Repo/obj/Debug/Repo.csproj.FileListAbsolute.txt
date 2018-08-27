@@ -1,0 +1,64 @@
+C:\Users\sachi\Desktop\SMA\Sachin_Project3\Prototype\Repo\obj\Debug\Repo.csprojResolveAssemblyReference.cache
+C:\Users\sachi\Desktop\SMA\Sachin_Project3\Prototype\Repo\obj\Debug\Repo.csproj.CoreCompileInputs.cache
+C:\Users\sachi\Desktop\SMA\Sachin_Project3\Prototype\Repo\bin\Debug\Repo.exe.config
+C:\Users\sachi\Desktop\SMA\Sachin_Project3\Prototype\Repo\bin\Debug\Repo.exe
+C:\Users\sachi\Desktop\SMA\Sachin_Project3\Prototype\Repo\bin\Debug\Repo.pdb
+C:\Users\sachi\Desktop\SMA\Sachin_Project3\Prototype\Repo\bin\Debug\MessagePassing.exe
+C:\Users\sachi\Desktop\SMA\Sachin_Project3\Prototype\Repo\bin\Debug\MotherBuilder.exe
+C:\Users\sachi\Desktop\SMA\Sachin_Project3\Prototype\Repo\bin\Debug\MessagePassing.pdb
+C:\Users\sachi\Desktop\SMA\Sachin_Project3\Prototype\Repo\bin\Debug\MessagePassing.exe.config
+C:\Users\sachi\Desktop\SMA\Sachin_Project3\Prototype\Repo\bin\Debug\MotherBuilder.pdb
+C:\Users\sachi\Desktop\SMA\Sachin_Project3\Prototype\Repo\bin\Debug\MotherBuilder.exe.config
+C:\Users\sachi\Desktop\SMA\Sachin_Project3\Prototype\Repo\obj\Debug\Repo.exe
+C:\Users\sachi\Desktop\SMA\Sachin_Project3\Prototype\Repo\obj\Debug\Repo.pdb
+C:\Users\sachi\Desktop\NavigatorClientServer\Repo\bin\Debug\Repo.exe.config
+C:\Users\sachi\Desktop\NavigatorClientServer\Repo\bin\Debug\Repo.exe
+C:\Users\sachi\Desktop\NavigatorClientServer\Repo\bin\Debug\Repo.pdb
+C:\Users\sachi\Desktop\NavigatorClientServer\Repo\bin\Debug\FileMgr.exe
+C:\Users\sachi\Desktop\NavigatorClientServer\Repo\bin\Debug\MessagePassing.exe
+C:\Users\sachi\Desktop\NavigatorClientServer\Repo\bin\Debug\FileMgr.pdb
+C:\Users\sachi\Desktop\NavigatorClientServer\Repo\bin\Debug\FileMgr.exe.config
+C:\Users\sachi\Desktop\NavigatorClientServer\Repo\bin\Debug\MessagePassing.pdb
+C:\Users\sachi\Desktop\NavigatorClientServer\Repo\bin\Debug\MessagePassing.exe.config
+C:\Users\sachi\Desktop\NavigatorClientServer\Repo\obj\Debug\Repo.csprojResolveAssemblyReference.cache
+C:\Users\sachi\Desktop\NavigatorClientServer\Repo\obj\Debug\Repo.csproj.CoreCompileInputs.cache
+C:\Users\sachi\Desktop\NavigatorClientServer\Repo\obj\Debug\Repo.exe
+C:\Users\sachi\Desktop\NavigatorClientServer\Repo\obj\Debug\Repo.pdb
+C:\Users\sachi\Desktop\NavigatorClientServer_Remote\Repo\bin\Debug\Repo.exe.config
+C:\Users\sachi\Desktop\NavigatorClientServer_Remote\Repo\bin\Debug\Repo.exe
+C:\Users\sachi\Desktop\NavigatorClientServer_Remote\Repo\bin\Debug\Repo.pdb
+C:\Users\sachi\Desktop\NavigatorClientServer_Remote\Repo\bin\Debug\FileMgr.exe
+C:\Users\sachi\Desktop\NavigatorClientServer_Remote\Repo\bin\Debug\MessagePassing.exe
+C:\Users\sachi\Desktop\NavigatorClientServer_Remote\Repo\bin\Debug\FileMgr.pdb
+C:\Users\sachi\Desktop\NavigatorClientServer_Remote\Repo\bin\Debug\FileMgr.exe.config
+C:\Users\sachi\Desktop\NavigatorClientServer_Remote\Repo\bin\Debug\MessagePassing.pdb
+C:\Users\sachi\Desktop\NavigatorClientServer_Remote\Repo\bin\Debug\MessagePassing.exe.config
+C:\Users\sachi\Desktop\NavigatorClientServer_Remote\Repo\obj\Debug\Repo.csprojResolveAssemblyReference.cache
+C:\Users\sachi\Desktop\NavigatorClientServer_Remote\Repo\obj\Debug\Repo.csproj.CoreCompileInputs.cache
+C:\Users\sachi\Desktop\NavigatorClientServer_Remote\Repo\obj\Debug\Repo.exe
+C:\Users\sachi\Desktop\NavigatorClientServer_Remote\Repo\obj\Debug\Repo.pdb
+C:\Users\sachi\Desktop\SMA\Sachin_Project3\Prototype\Repo\bin\Debug\FileMgr.exe
+C:\Users\sachi\Desktop\SMA\Sachin_Project3\Prototype\Repo\bin\Debug\FileMgr.pdb
+C:\Users\sachi\Desktop\SMA\Sachin_Project3\Prototype\Repo\bin\Debug\FileMgr.exe.config
+C:\Users\sachi\Desktop\SMA\Sachin_Project3\Prototype\Repo\bin\Debug\SMA-ProjectTemplate1.exe
+C:\Users\sachi\Desktop\SMA\Sachin_Project3\Prototype\Repo\bin\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\sachi\Desktop\SMA\Sachin_Project3\Prototype\Repo\bin\Debug\SMA-ProjectTemplate1.exe.config
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project4\Project4\Remote_Build_Server\Remote_Build_Server\Repo\bin\Debug\Repo.exe.config
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project4\Project4\Remote_Build_Server\Remote_Build_Server\Repo\bin\Debug\Repo.exe
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project4\Project4\Remote_Build_Server\Remote_Build_Server\Repo\bin\Debug\Repo.pdb
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project4\Project4\Remote_Build_Server\Remote_Build_Server\Repo\bin\Debug\FileMgr.exe
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project4\Project4\Remote_Build_Server\Remote_Build_Server\Repo\bin\Debug\MessagePassing.exe
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project4\Project4\Remote_Build_Server\Remote_Build_Server\Repo\bin\Debug\MotherBuilder.exe
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project4\Project4\Remote_Build_Server\Remote_Build_Server\Repo\bin\Debug\SMA-ProjectTemplate1.exe
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project4\Project4\Remote_Build_Server\Remote_Build_Server\Repo\bin\Debug\FileMgr.pdb
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project4\Project4\Remote_Build_Server\Remote_Build_Server\Repo\bin\Debug\FileMgr.exe.config
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project4\Project4\Remote_Build_Server\Remote_Build_Server\Repo\bin\Debug\MessagePassing.pdb
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project4\Project4\Remote_Build_Server\Remote_Build_Server\Repo\bin\Debug\MessagePassing.exe.config
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project4\Project4\Remote_Build_Server\Remote_Build_Server\Repo\bin\Debug\MotherBuilder.pdb
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project4\Project4\Remote_Build_Server\Remote_Build_Server\Repo\bin\Debug\MotherBuilder.exe.config
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project4\Project4\Remote_Build_Server\Remote_Build_Server\Repo\bin\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project4\Project4\Remote_Build_Server\Remote_Build_Server\Repo\bin\Debug\SMA-ProjectTemplate1.exe.config
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project4\Project4\Remote_Build_Server\Remote_Build_Server\Repo\obj\Debug\Repo.csprojResolveAssemblyReference.cache
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project4\Project4\Remote_Build_Server\Remote_Build_Server\Repo\obj\Debug\Repo.csproj.CoreCompileInputs.cache
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project4\Project4\Remote_Build_Server\Remote_Build_Server\Repo\obj\Debug\Repo.exe
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project4\Project4\Remote_Build_Server\Remote_Build_Server\Repo\obj\Debug\Repo.pdb

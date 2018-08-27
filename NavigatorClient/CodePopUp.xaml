@@ -1,0 +1,43 @@
+﻿<Window x:Class="Navigator.CodePopUp"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Navigator"
+        mc:Ignorable="d"
+        Title="CodePopUp" Height="500" Width="600">
+    <!-- 
+    //////////////////////////////////////////////////////////////////////
+    // Project#4:      Remote Build Server                              //
+    //                 An automated tool that builds test libraries     //
+    //                                                                  //
+    // CodePopUp.xaml:    Displays text file source in response to      //
+    //                    double-click                                  //
+    //                    Using the demo code (from Help session)       //
+    //                    provided by Prof. Jim Fawcett as reference    //
+    // **************************************************************** //
+    // Version:        1.0                                              //
+    // Date:           12/06/2017                                       //
+    // Language:       C#.                                              //
+    // Platform:       Visual Studio Community Edition                  //
+    //                 HP ENVY, Windows 10                              //
+    // Application:    CSE681 - Software Modelling and Analysis         //
+    // Author:         Sachin Basavani Shivashankara                    //
+    // SUID:           267871645                                        //
+    // Ph:, email:     (315)751-5895, sbasavan@syr.edu                  //
+    //////////////////////////////////////////////////////////////////////
+
+    ///////////////////////////////////////////////////////////////////////////////
+    // CodePopUp.xaml.cs - Displays text file source in response to double-click //
+    // ver 1.0                                                                   //
+    // Jim Fawcett, CSE681 - Software Modeling and Analysis, Fall 2017           //
+    ///////////////////////////////////////////////////////////////////////////////
+  -->
+    <Grid>
+        <Border>
+            <ScrollViewer HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto">
+                <TextBlock x:Name="codeView" FontFamily="consolas" FontSize="18" Padding="15"></TextBlock>
+            </ScrollViewer>
+        </Border>
+    </Grid>
+</Window>

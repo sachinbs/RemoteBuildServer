@@ -1,0 +1,46 @@
+C:\su\temp\NavigatorClient2\FileMgr\bin\Debug\FileMgr.exe.config
+C:\su\temp\NavigatorClient2\FileMgr\bin\Debug\FileMgr.exe
+C:\su\temp\NavigatorClient2\FileMgr\bin\Debug\FileMgr.pdb
+C:\su\temp\NavigatorClient2\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\su\temp\NavigatorClient2\FileMgr\obj\Debug\FileMgr.exe
+C:\su\temp\NavigatorClient2\FileMgr\obj\Debug\FileMgr.pdb
+C:\su\temp\NavigatorClient2\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+C:\su\temp\NavigatorClient\FileMgr\bin\Debug\FileMgr.exe.config
+C:\su\temp\NavigatorClient\FileMgr\bin\Debug\FileMgr.exe
+C:\su\temp\NavigatorClient\FileMgr\bin\Debug\FileMgr.pdb
+C:\su\temp\NavigatorClient\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+C:\su\temp\NavigatorClient\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\su\temp\NavigatorClient\FileMgr\obj\Debug\FileMgr.exe
+C:\su\temp\NavigatorClient\FileMgr\obj\Debug\FileMgr.pdb
+C:\Users\sachi\Desktop\NavigatorClientServer\FileMgr\bin\Debug\FileMgr.exe.config
+C:\Users\sachi\Desktop\NavigatorClientServer\FileMgr\bin\Debug\FileMgr.exe
+C:\Users\sachi\Desktop\NavigatorClientServer\FileMgr\bin\Debug\FileMgr.pdb
+C:\Users\sachi\Desktop\NavigatorClientServer\FileMgr\bin\Debug\Environment.dll
+C:\Users\sachi\Desktop\NavigatorClientServer\FileMgr\bin\Debug\Environment.pdb
+C:\Users\sachi\Desktop\NavigatorClientServer\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+C:\Users\sachi\Desktop\NavigatorClientServer\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\Users\sachi\Desktop\NavigatorClientServer\FileMgr\obj\Debug\FileMgr.exe
+C:\Users\sachi\Desktop\NavigatorClientServer\FileMgr\obj\Debug\FileMgr.pdb
+C:\Users\sachi\Desktop\NavigatorClientServer\FileMgr\bin\Debug\MessagePassing.exe
+C:\Users\sachi\Desktop\NavigatorClientServer\FileMgr\bin\Debug\MessagePassing.pdb
+C:\Users\sachi\Desktop\NavigatorClientServer\FileMgr\bin\Debug\MessagePassing.exe.config
+C:\Users\sachi\Desktop\SMA\Sachin_Project3\Prototype\FileMgr\bin\Debug\FileMgr.exe.config
+C:\Users\sachi\Desktop\SMA\Sachin_Project3\Prototype\FileMgr\bin\Debug\FileMgr.exe
+C:\Users\sachi\Desktop\SMA\Sachin_Project3\Prototype\FileMgr\bin\Debug\FileMgr.pdb
+C:\Users\sachi\Desktop\SMA\Sachin_Project3\Prototype\FileMgr\bin\Debug\MessagePassing.exe
+C:\Users\sachi\Desktop\SMA\Sachin_Project3\Prototype\FileMgr\bin\Debug\MessagePassing.pdb
+C:\Users\sachi\Desktop\SMA\Sachin_Project3\Prototype\FileMgr\bin\Debug\MessagePassing.exe.config
+C:\Users\sachi\Desktop\SMA\Sachin_Project3\Prototype\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+C:\Users\sachi\Desktop\SMA\Sachin_Project3\Prototype\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\Users\sachi\Desktop\SMA\Sachin_Project3\Prototype\FileMgr\obj\Debug\FileMgr.exe
+C:\Users\sachi\Desktop\SMA\Sachin_Project3\Prototype\FileMgr\obj\Debug\FileMgr.pdb
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project4\Project4\Remote_Build_Server\Remote_Build_Server\FileMgr\bin\Debug\FileMgr.exe.config
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project4\Project4\Remote_Build_Server\Remote_Build_Server\FileMgr\bin\Debug\FileMgr.exe
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project4\Project4\Remote_Build_Server\Remote_Build_Server\FileMgr\bin\Debug\FileMgr.pdb
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project4\Project4\Remote_Build_Server\Remote_Build_Server\FileMgr\bin\Debug\MessagePassing.exe
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project4\Project4\Remote_Build_Server\Remote_Build_Server\FileMgr\bin\Debug\MessagePassing.pdb
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project4\Project4\Remote_Build_Server\Remote_Build_Server\FileMgr\bin\Debug\MessagePassing.exe.config
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project4\Project4\Remote_Build_Server\Remote_Build_Server\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project4\Project4\Remote_Build_Server\Remote_Build_Server\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project4\Project4\Remote_Build_Server\Remote_Build_Server\FileMgr\obj\Debug\FileMgr.exe
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project4\Project4\Remote_Build_Server\Remote_Build_Server\FileMgr\obj\Debug\FileMgr.pdb

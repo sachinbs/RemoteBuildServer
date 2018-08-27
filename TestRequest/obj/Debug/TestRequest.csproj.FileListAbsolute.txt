@@ -1,0 +1,28 @@
+C:\su\CSE681\code\Project2HelpF2017\HelpSession-8-Sep-2017\SMA-ProjectTemplate1\bin\Debug\SMA-ProjectTemplate1.exe.config
+C:\su\CSE681\code\Project2HelpF2017\HelpSession-8-Sep-2017\SMA-ProjectTemplate1\bin\Debug\SMA-ProjectTemplate1.exe
+C:\su\CSE681\code\Project2HelpF2017\HelpSession-8-Sep-2017\SMA-ProjectTemplate1\bin\Debug\SMA-ProjectTemplate1.pdb
+C:\su\CSE681\code\Project2HelpF2017\HelpSession-8-Sep-2017\SMA-ProjectTemplate1\obj\Debug\TestRequest.csprojResolveAssemblyReference.cache
+C:\su\CSE681\code\Project2HelpF2017\HelpSession-8-Sep-2017\SMA-ProjectTemplate1\obj\Debug\TestRequest.csproj.CoreCompileInputs.cache
+C:\su\CSE681\code\Project2HelpF2017\HelpSession-8-Sep-2017\SMA-ProjectTemplate1\obj\Debug\SMA-ProjectTemplate1.exe
+C:\su\CSE681\code\Project2HelpF2017\HelpSession-8-Sep-2017\SMA-ProjectTemplate1\obj\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\sachi\Desktop\NavigatorClientServer_Remote\TestRequest\bin\Debug\SMA-ProjectTemplate1.exe.config
+C:\Users\sachi\Desktop\NavigatorClientServer_Remote\TestRequest\bin\Debug\SMA-ProjectTemplate1.exe
+C:\Users\sachi\Desktop\NavigatorClientServer_Remote\TestRequest\bin\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\sachi\Desktop\NavigatorClientServer_Remote\TestRequest\obj\Debug\TestRequest.csprojResolveAssemblyReference.cache
+C:\Users\sachi\Desktop\NavigatorClientServer_Remote\TestRequest\obj\Debug\TestRequest.csproj.CoreCompileInputs.cache
+C:\Users\sachi\Desktop\NavigatorClientServer_Remote\TestRequest\obj\Debug\SMA-ProjectTemplate1.exe
+C:\Users\sachi\Desktop\NavigatorClientServer_Remote\TestRequest\obj\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\sachi\Desktop\SMA\Sachin_Project3\Prototype\TestRequest\bin\Debug\SMA-ProjectTemplate1.exe.config
+C:\Users\sachi\Desktop\SMA\Sachin_Project3\Prototype\TestRequest\bin\Debug\SMA-ProjectTemplate1.exe
+C:\Users\sachi\Desktop\SMA\Sachin_Project3\Prototype\TestRequest\bin\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\sachi\Desktop\SMA\Sachin_Project3\Prototype\TestRequest\obj\Debug\TestRequest.csprojResolveAssemblyReference.cache
+C:\Users\sachi\Desktop\SMA\Sachin_Project3\Prototype\TestRequest\obj\Debug\TestRequest.csproj.CoreCompileInputs.cache
+C:\Users\sachi\Desktop\SMA\Sachin_Project3\Prototype\TestRequest\obj\Debug\SMA-ProjectTemplate1.exe
+C:\Users\sachi\Desktop\SMA\Sachin_Project3\Prototype\TestRequest\obj\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project4\Project4\Remote_Build_Server\Remote_Build_Server\TestRequest\bin\Debug\SMA-ProjectTemplate1.exe.config
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project4\Project4\Remote_Build_Server\Remote_Build_Server\TestRequest\bin\Debug\SMA-ProjectTemplate1.exe
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project4\Project4\Remote_Build_Server\Remote_Build_Server\TestRequest\bin\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project4\Project4\Remote_Build_Server\Remote_Build_Server\TestRequest\obj\Debug\TestRequest.csprojResolveAssemblyReference.cache
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project4\Project4\Remote_Build_Server\Remote_Build_Server\TestRequest\obj\Debug\TestRequest.csproj.CoreCompileInputs.cache
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project4\Project4\Remote_Build_Server\Remote_Build_Server\TestRequest\obj\Debug\SMA-ProjectTemplate1.exe
+C:\Users\sachi\Documents\Visual Studio 2017\Projects\Fall17\Project4\Project4\Remote_Build_Server\Remote_Build_Server\TestRequest\obj\Debug\SMA-ProjectTemplate1.pdb
